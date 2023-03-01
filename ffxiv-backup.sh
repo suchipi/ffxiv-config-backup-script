@@ -21,8 +21,8 @@ FILES=(
   ffxiv/game/dxgi.dll
   ffxiv/game/d3dcompiler_47.dll
   ffxiv/game/GShade.ini
-  ffxiv/game/gshade-presets/
-  ffxiv/game/gshade-shaders/
+  ffxiv/game/gshade-presets
+  ffxiv/game/gshade-shaders
   ffxiv/game/notification.wav
 )
 
